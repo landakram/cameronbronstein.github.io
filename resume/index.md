@@ -1,9 +1,6 @@
 # Resume
 
 ## Cameron James Bronstein
-_Data Analyst | Data Scientist_
-Oakland, CA | cambronstein@gmail.com | 415-680-5537 
-linkedin.com/in/cameron-bronstein/   |  https://github.com/cameronbronstein
 
 **I am driven to solve and communicate social and environmental challenges. My background in Ecology research has led me to apply data science and machine learning tools to find solutions to global change. I am especially passionate about the applications of remote sensing to Conservation. In both independent and team projects, I leverage patience and an observant curiosity to understand the minutiae of the problems I work on.**
 
