@@ -40,11 +40,8 @@ August 2011 - May 2015
 
 ### OTHER
 
-Elite Road Cyclist  - Category 1
-Team Mikes Bikes p/b Equator Coffees
-2016 - 2018
+Elite Road Cyclist  - Category 1 | Team Mikes Bikes p/b Equator Coffees | 2016 - 2018
 
-Contributing Writer
-Towards Data Science - Medium
-medium.com/@cambostein
+Contributing Writer | Towards Data Science - [Medium](medium.com/@cambostein)
+
 
