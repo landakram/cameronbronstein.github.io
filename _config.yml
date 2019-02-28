@@ -61,7 +61,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cameronbronstein"
     - label: "Medium"
-      icon: "fas fa-fw fa-medium-square"
+      icon: "fab fa-medium"
       url: "https://medium.com/@cambostein"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
