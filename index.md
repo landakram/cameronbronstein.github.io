@@ -1,5 +1,6 @@
 ---
-layout: single
-author_profile: true
-image:  assets/images/monteverde.png
+layout: splash
+author_profile: false
+image:  
+    feature: assets/images/monteverde.png
 ---
