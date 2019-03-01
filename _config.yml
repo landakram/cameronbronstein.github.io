@@ -21,7 +21,7 @@ title_separator          : "-"
 name                     : "Cameron Bronstein"
 description              : "Welcome to my personal website!"
 url                      : "https://cameronbronstein.github.io"
-baseurl                  : "/cameronbronstein.github.io/"
+baseurl                  : 
 repository               : "cameronbronstein/cameronbronstein.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #
