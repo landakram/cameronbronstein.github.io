@@ -1,6 +1,6 @@
 ---
-layout: splash
-author_profile: false
+layout: page
+author_profile: true
 image:  
     feature: assets/images/monteverde.png
 ---
