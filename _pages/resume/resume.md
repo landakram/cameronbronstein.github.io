@@ -10,7 +10,7 @@ image:
 - Python, Machine, Learning, Data Engineering, Experimental Design, Satellite Imagery, Deep Learning, Keras, Tensorflow, AWS & Cloud Computing, Scala & Apache Spark
 
 ### EXPERIENCE
-#### General Assembly - Data Science Immersive**
+#### General Assembly - Data Science Immersive
 **Data Science Fellow**: November 2018 - February 2019
 - _Coursework_: Python programming; data collection and data munging; regression and classification modeling; data analysis and visualization; presentation design.
 - _Projects_: Understanding Nationwide Standardized Testing using Pandas and Data Visualization; Predicting House Prices with Multivariable Linear Regression and Regularization Methods; Using Natural Language Processing for Media Source Classification; Leveraging Social Media to locate survivors of Natural Disasters; Using Satellite Imagery and Deep Learning for Environmental Conservation.

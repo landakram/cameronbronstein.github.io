@@ -3,8 +3,7 @@ layout: page
 author_profile: true
 title: About me
 header:
-image:  
-    feature: monteverde.jpg
+  image: assets/images/monteverde.jpg
 ---
 
 Hi there.
