@@ -1,18 +1,15 @@
-# Resume
+---
+layout: page
+author_profile: true
+title: Resume
+image:  
+    feature: monteverde.jpg
+---
 
-## SKILLS: 
-- Python
-- Machine 
-- Learning
-- Data Engineering
-- Experimental Design
-- Satellite Imagery
-- Keras
-- Tensorflow
-- AWS/ Cloud
-- Scala/ Apache Spark
+### SKILLS: 
+- Python, Machine, Learning, Data Engineering, Experimental Design, Satellite Imagery, Deep Learning, Keras, Tensorflow, AWS & Cloud Computing, Scala & Apache Spark
 
-## EXPERIENCE
+### EXPERIENCE
 #### General Assembly - Data Science Immersive**
 **Data Science Fellow**: November 2018 - February 2019
 - _Coursework_: Python programming; data collection and data munging; regression and classification modeling; data analysis and visualization; presentation design.
@@ -30,7 +27,7 @@ Project: “Mistletoe Distribution and Host Physiology in Bay Area Oak Woodlands
 - Experience with experimental design, molecular biology, and plant physiology fieldwork.
 - Organized literature research finding on ontogenetic variation in plant chemical defense compounds into searchable documents for use in literature review studies.
 
-## EDUCATION
+### EDUCATION
 
 Data Science Immersive    
 General Assembly, NY
@@ -40,7 +37,7 @@ B.A. Integrative Biology, High Honors
 Univ. of California, Berkeley  		 
 August 2011 - May 2015  
 
-## OTHER
+### OTHER
 
 Elite Road Cyclist (Category 1)  
 Team Mikes Bikes p/b Equator Coffees  
