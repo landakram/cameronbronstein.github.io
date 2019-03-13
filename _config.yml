@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cameron Bronstein"
+title                    : "Plant Ecologist | Data Scientist"
 title_separator          : "-"
 name                     : "Cameron Bronstein"
 description              : "Welcome to my personal website!"
@@ -67,35 +67,32 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/cambronstein"
 
-# # Collections
-# collections:
-#   portfolio:
-#     output: true
-#     permalink:
-#       /porfolio/
+# Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  blogs:
+    output: true
+    permalink: /:collection/:path/
   
 
-# # Defaults
-# defaults:
-#   # _posts
-#   - scope:
-#       path: ""
-#       type: posts
-#     values:
-#       layout: single
-#       author_profile: true
-#       comments: # true
-#       share: true
-#       related: true
-#   # _portfolio
-#   - scope:
-#       path: ""
-#       type: portfolio
-#     values:
-#       layout: single
-#       author_profile: false
-#       share: true
-
+# Defaults
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
 
 
 
