@@ -1,8 +1,9 @@
 ---
 layout: splash
+permalink: /portfolio
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/monteverde.jpg
+  overlay_image: /assets/images/minarets.jpg
 feature_row:
   - image_path: /assets/images/capstone_images/title.jpg
     title: "Capstone Project"

@@ -1,8 +1,9 @@
 ---
 layout: page
+permalink: /resume
 author_profile: true
 title: Resume
-image_path:  
+image:  
     feature: monteverde.jpg
 ---
 
@@ -40,10 +41,11 @@ August 2011 - May 2015
 ### OTHER
 
 Elite Road Cyclist (Category 1)  
-_Team Mikes Bikes p/b Equator Coffees_  
+Team Mikes Bikes p/b Equator Coffees  
 2016 - 2018  
 
 Contributing Writer  
-_Towards Data Science_
-Medium
+Towards Data Science  
+[Medium](medium.com/@cambostein)  
+
 
