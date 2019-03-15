@@ -67,33 +67,33 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/cambronstein"
 
-# Collections
-collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  blogs:
-    output: true
-    permalink: /:collection/:path/
+# # Collections
+# collections:
+#   portfolio:
+#     output: true
+#     permalink: /:collection/:path/
+#   blogs:
+#     output: true
+#     permalink: /:collection/:path/
   
 
-# Defaults
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: splash
-      author_profile: false
+# # Defaults
+# defaults:
+#   # _pages
+#   - scope:
+#       path: ""
+#       type: pages
+#     values:
+#       layout: splash
+#       author_profile: false
   
-# _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
+# # _portfolio
+#   - scope:
+#       path: ""
+#       type: portfolio
+#     values:
+#       layout: single
+#       author_profile: true
 
 
 

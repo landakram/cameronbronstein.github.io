@@ -9,3 +9,33 @@ main:
     url: /resume/
   - title: "About"
     url: /about/
+
+# all:
+#   - title: Portfolio
+#     children:
+#       - title: "Capstone"
+#         url: /portfolio/capstone
+#       - title: "Natural Distasters"
+#         url: /portfolio/nlt
+#       - title: "Natural Language Processing"
+#         url: /portfolio/reddit
+#       - title: "Predicting Home Prices"
+#         url: /portfolio/home_prices
+#       - title: "Visualizing Standardized Testing"
+#         url: /portfolio/sat_act
+#   - title: Blog
+#     children:
+#       - title: "Land-Use and Deforestation in the Brazilian Amazon"
+#         url: /blog/amazon
+#       - title: "Understanding Satellite Image Data"
+#         url: /blog/imagedata
+#       - title: "Remote Sensing Basics - Normalized Difference Vegetation Index"
+#         url: /blog/ndvi
+#       - title: "Bulk upload files to AWS EC2 Instance with remote sync (Rsync)"
+#         url: /blog/rsync
+#       - title: "Roadblocks in the Data Science Process"
+#         url: /blog/roadblocks
+#       - title: "Why Data Science?"
+#         url: /blog/whydatascience
+
+    

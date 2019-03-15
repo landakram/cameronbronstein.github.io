@@ -20,10 +20,6 @@ feature_row:
     url: "/portfolio/capstone/"          
 ---
 
-{% include feature_row %}
-
-
-
 # Welcome to my blog page!
 
 Check them all out below, or visit my page on [Medium.](https://medium.com/@cambostein)
@@ -46,3 +42,5 @@ Roadblocks in the data science process
 
 Why Data Science?
 [oak woodland image](assets/images/oaks.jpeg)
+
+{% include feature_row %}

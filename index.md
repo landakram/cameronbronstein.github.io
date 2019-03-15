@@ -3,9 +3,7 @@ title: Welcome
 layout: splash
 permalink: /
 header:
-  overlay_image: /assets/images/monteverde.jpg
-excerpt: 
-
+  overlay_image: /assets/images/monteverde.jpg 
 intro: 
   - excerpt: 'Hello. I'm Cameron. Thanks for visiting my personal website.'
 feature_row:
