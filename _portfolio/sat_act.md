@@ -1,8 +1,8 @@
 ---
 layout: page
-author_profile: false
+permalink: /portfolio/sat_act
 title: Understanding Nationwide Standardized Testing
 header:
 image:  
-    feature: # some image
+    feature: /assets/images/sat_logo.jpg
 ---

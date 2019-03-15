@@ -1,6 +1,6 @@
 ---
 layout: page
-author_profile: false
+permalink: /portfolio/home_prices
 title: Predicting Home Prices with Linear Regression
 header:
 image:  

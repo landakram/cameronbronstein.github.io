@@ -1,6 +1,6 @@
 ---
 layout: page
-author_profile: false
+permalink: /portfolio/nlt
 title: Leveraging Social Media to Locate Survivors of Natural Distasters
 header:
 image:  

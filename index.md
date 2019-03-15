@@ -1,11 +1,15 @@
 ---
-layout: single
+title: Welcome
+layout: splash
+permalink: /
 header:
-  image_path: /assets/images/monteverde.jpg
-  excerpt: "Welcome to my personal website"
+  overlay_image: /assets/images/monteverde.jpg
+excerpt: 
+
+intro: 
+  - excerpt: 'Hello. I'm Cameron. Thanks for visiting my personal website.'
 feature_row:
-  - title: "Welcome"
-    excerpt: "I'm Cameron. Thanks for visiting my personal website. Want to learn more about me?"
+  - title: "More about me"
     image_path: /assets/images/headshot.png
     url: "/about/"
   - title: "Blogs"
