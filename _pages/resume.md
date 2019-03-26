@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: splash
 permalink: /resume/
-author_profile: true
 title: Resume
 image:  
-    feature: monteverde.jpg
+    feature: /assets/images/monteverde.jpg
 ---
 
 ### SKILLS: 

@@ -2,14 +2,14 @@
 layout: splash
 permalink: /portfolio/
 header:
-  overlay_color: "#5e616c"
+  # overlay_color: "#5e616c"
   overlay_image: /assets/images/minarets.jpg
 feature_row:
   - image_path: /assets/images/capstone_images/title.jpg
     title: "Capstone Project"
     excerpt: "Using Satellite Imagery and Deep Learning for Environmental Conservation."
     url: "https://cameronbronstein.github.io/portfolio/capstone"
-  - image_path: /assets/images/nlt.jpg
+  - image_path: /assets/images/mexico_beach.jpg
     title: "Leveraging Social Media to Locate Survivors of Natural Distasters"
     excerpt: "This was a client-based group project I completed for New Light Technolgies."
     url: "https://cameronbronstein.github.io/portfolio/nlt"
@@ -32,4 +32,4 @@ Welcome to my portfolio page. Here are summaries of the data science projects I 
 
 {% include feature_row %}
 
-To check out the code, GitHub links can be found in each project page, or you can visit my [GitHub.](https://github.com/cameronbronstein)
+To check out the code, GitHub links can be found in each project page, or you can visit my [GitHub](https://github.com/cameronbronstein) directly.

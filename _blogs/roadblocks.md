@@ -1,4 +1,4 @@
 ---
-permalink: /blog/roadblocks
+permalink: /blog/roadblocks/
 
 ---

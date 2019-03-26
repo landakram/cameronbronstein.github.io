@@ -1,4 +1,4 @@
 ---
-permalink: /blog/rsync
+permalink: /blog/rsync/
 
 ---

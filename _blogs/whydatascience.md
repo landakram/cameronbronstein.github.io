@@ -1,4 +1,4 @@
 ---
-permalink: /blog/whydatascience
+permalink: /blog/whydatascience/
 
 ---

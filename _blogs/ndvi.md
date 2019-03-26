@@ -1,4 +1,4 @@
 ---
-permalink: /blog/ndvi
+permalink: /blog/ndvi/
 
 ---

@@ -1,4 +1,4 @@
 ---
-permalink: /blog/amazon
+permalink: /blog/amazon/
 
 ---

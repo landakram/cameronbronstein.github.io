@@ -1,4 +1,4 @@
 ---
-permalink: /blog/imagedata
+permalink: /blog/imagedata/
 
 ---
