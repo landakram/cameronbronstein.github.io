@@ -1,7 +1,7 @@
 ---
 layout: page
 author_profile: true
-permalink: /about
+permalink: /about/
 title: About me
 header:
   image: assets/images/backpacking.jpg

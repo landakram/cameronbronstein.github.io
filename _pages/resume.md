@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /resume
+permalink: /resume/
 author_profile: true
 title: Resume
 image:  

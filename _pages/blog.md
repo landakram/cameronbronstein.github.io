@@ -1,7 +1,7 @@
 ---
 
 layout: splash
-permalink: /blog
+permalink: /blog/
 header:
   overlay_color: "#5e616c"
   image_path: /assets/images/monteverde.jpg
