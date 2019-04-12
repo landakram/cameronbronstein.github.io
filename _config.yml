@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" #, "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cameron Bronstein"
+title                    : "CAMERON BRONSTEIN"
 title_separator          : "-"
 name                     : #"Cameron Bronstein"
-description              : "Welcome to my personal website!"
+description              : "Welcome to my personal website"
 url                      : "https://cameronbronstein.github.io"
 baseurl                  : 
 repository               : "cameronbronstein/cameronbronstein.github.io"
@@ -77,23 +77,23 @@ footer:
 #     permalink: /:collection/:path/
   
 
-# # Defaults
-# defaults:
-#   # _pages
-#   - scope:
-#       path: ""
-#       type: pages
-#     values:
-#       layout: splash
-#       author_profile: false
+# Defaults
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: splash
+      author_profile: false
   
-# # _portfolio
-#   - scope:
-#       path: ""
-#       type: portfolio
-#     values:
-#       layout: single
-#       author_profile: true
+# _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
 
 
 
@@ -135,7 +135,7 @@ plugins:
 # Reading Files
 include:
 #  - .htaccess
-  - _pages
+  - ["_pages"]
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -177,11 +177,11 @@ sass:
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# # Outputting
+# permalink: /:categories/:title/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+# timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 

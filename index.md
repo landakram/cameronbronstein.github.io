@@ -1,22 +1,28 @@
 ---
-title: Welcome
-layout: splash
-permalink: /
+layout: home
+author_profile: true
 header:
-  overlay_image: /assets/images/monteverde.jpg 
+  image: /assets/images/monteverde.jpg 
+  teaser: /assets/images/monteverde.jpg 
 intro: 
-  - excerpt: 'Hello. I'm Cameron. Thanks for visiting my personal website.'
+  - excerpt: "Hello. I'm Cameron. Thanks for visiting my personal website."
 feature_row:
-  - title: "More about me"
-    image_path: /assets/images/headshot.png
+  - title: "About me"
+    image_path: /assets/images/shoesap.jpg
     url: "/about/"
-  - title: "Blogs"
+    btn_label: " "
+  - title: "Blog"
     image_path: /assets/images/iceberglake.jpg
     url: "/blog/"
-  - title: "Capstone Project"
-    excerpt: "Using Satellite Imagery and Deep Learning for Environmental Conservation."
-    image_path: /assets/images/deforestation.jpg
-    url: "/portfolio/capstone/"          
+    btn_label: " "
+  - title: "Portfolio"
+    image_path: /assets/images/summit_lake.jpg
+    url: "/portfolio/"
+    btn_label: " "        
 ---
+
+**Welcome**
+
+Thanks for visiting my personal website. Please check out my projects and writing to learn more about me.
 
 {% include feature_row %}

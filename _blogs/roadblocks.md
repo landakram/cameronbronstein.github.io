@@ -1,4 +1,0 @@
----
-permalink: /blog/roadblocks/
-
----

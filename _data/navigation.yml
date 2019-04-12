@@ -1,13 +1,13 @@
 # main links 
 # might need to build this out based on all the sublinks in each of the follow sections
 main:
-  - title: "Portfolio"
+  - title: "PORTFOLIO"
     url: /portfolio/
-  - title: "Blog"
+  - title: "BLOG"
     url: /blog/
-  - title: "Resume"
+  - title: "RESUME"
     url: /resume/
-  - title: "About"
+  - title: "ABOUT"
     url: /about/
 
 # all:
