@@ -2,8 +2,7 @@
 layout: home
 author_profile: true
 header:
-  image: /assets/images/monteverde.jpg 
-  teaser: /assets/images/monteverde.jpg 
+  overlay_image: /assets/images/monteverde.jpg 
 intro: 
   - excerpt: "Hello. I'm Cameron. Thanks for visiting my personal website."
 feature_row:
